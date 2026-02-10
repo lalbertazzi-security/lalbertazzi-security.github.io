@@ -19,6 +19,6 @@ tags:
 -**Coming soon**
 
 # 🛠️ Remediation
-**Coming soon**.
+**Coming soon** .
 
 
