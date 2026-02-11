@@ -5,10 +5,12 @@ tags:
   - offensive-security
   - walkthrough
   - report
+  - HTB
 ---
 
-On the left you can find a collection of narrative walkthrough and reports about HTB machines.
-To access the PDF report relate to a machine, please **contact me** on [Linkedin](https://www.linkedin.com/in/luca-albertazzi-77073b61) to obtain the required password. 
+On the left panel you can find a collection of narrative walkthroughs and reports about HTB machines.
+To access the PDF report related to a machine, please **contact me** on [Linkedin](https://www.linkedin.com/in/luca-albertazzi-77073b61) to obtain the link. 
 
 ## Recent Walkthrough
-**Cooming Soon**
+[Facts](Facts_machine)
+
