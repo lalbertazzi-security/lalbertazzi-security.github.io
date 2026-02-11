@@ -1,6 +1,5 @@
-const savedTheme = localStorage.getItem("theme")
-// If no theme is saved in the browser, default to "dark" instead of system preference
-const currentTheme = savedTheme ?? "dark"
+const userPref = window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark"
+const currentTheme = localStorage.getItem("theme") ?? userPref
 document.documentElement.setAttribute("saved-theme", currentTheme)
 
 const emitThemeChangeEvent = (theme: "light" | "dark") => {
