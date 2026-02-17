@@ -11,6 +11,7 @@ tags:
 On the left panel you can find a collection of narrative walkthroughs and reports about HTB machines.
 To access the PDF report related to a machine, please **contact me** on [Linkedin](https://www.linkedin.com/in/luca-albertazzi-77073b61) to obtain the link. 
 
-## Recent Walkthrough
-[Facts](Facts_machine)
+## Recent Walkthroughs
+1. [Active](Active_machine)
+2. [Facts](Facts_machine)
 
